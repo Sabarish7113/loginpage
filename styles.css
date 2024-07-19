@@ -1,0 +1,47 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+}
+.card
+{
+    position: relative;
+    left: 35%;
+    margin-top: 7%;
+    border-radius: 5px;
+    height: 550px;
+    width: 400px;
+    background-color: rgb(112, 229, 242);
+}
+form{
+    position: relative;
+    left: 30px;
+}
+input
+{
+    height:2rem ;
+    width: 20rem;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+label
+{
+    font-size: larger;
+}
+h1
+{
+    text-align: center;
+}
+textarea
+{
+    width: 20rem;
+    border-radius: 5px;
+    border: black solid 2px;
+}
+button
+{
+    margin-top: 30px;
+    height: 3rem;
+    width: 20.3rem;
+    font-size: larger;
+}
